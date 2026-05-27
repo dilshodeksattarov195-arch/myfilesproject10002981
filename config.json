@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersecrypt",
+        "uuid": 26140389,
+        "checksum": "ty3uep"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
